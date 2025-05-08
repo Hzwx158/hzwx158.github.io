@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,16 +10,15 @@ redirect_from:
 
 **About Me**
 
-- I am an undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), one of China's prestigious universities with a rich history and strong academic reputation.
+- I, Huo Zongwei, am an undergraduate student at [Shanghai Jiao Tong University (SJTU)](https://www.sjtu.edu.cn), one of China's prestigious universities with a rich history and strong academic reputation.
 - My research interests lie in Artificial Intelligence (AI), Large Language Models (LLMs), and Reinforcement Learning. I am particularly fascinated by the potential of these technologies to revolutionize various industries and solve complex problems.
 
 **Projects**
 
 - One of my notable projects is **CppTensor**, which is available on GitHub at [https://github.com/Hzwx158/CppTensor](https://github.com/Hzwx158/CppTensor). This project focuses on developing efficient tensor operations and computations in C++, which are fundamental for many AI and machine learning applications.
 
-**Contact**
 
-- If you are interested in my work or would like to collaborate, feel free to reach out to me via email at hzwx158@sjtu.edu.cn.
+[Email](hzwx158@sjtu.edu.cn) / [Github](https://github.com/hzwx158)
 
 
 A data-driven personal website
