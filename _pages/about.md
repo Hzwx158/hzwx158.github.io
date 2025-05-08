@@ -13,6 +13,8 @@ redirect_from:
 I'm an undergraduate student from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 My research interest includes Artificial Intelligence, LLM, Reinforcement Learning. 
 
+E-mail: hzwx158@sjtu.edu.cn
+
 # Projects
 [CppTensor](https://github.com/Hzwx158/CppTensor)
 
